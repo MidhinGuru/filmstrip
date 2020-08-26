@@ -2,7 +2,17 @@
  filmstrip
 
 ## Installation
-Clone the repo
+Clone the repo and 
 Collect all dependencies by npm install
-Start the local server by npm start
-Run test suite by npm test
+
+## Start local server
+Start the local server by 
+```bash
+npm start
+```
+
+## Run test
+Run test suite by 
+```bash
+npm test
+```
